@@ -1,3 +1,3 @@
-# cv
- - Static page (Utilizing only HTML and CSS) to show my resume in a fun way! <br>
+# cv [🔗](https://codesaurusrex-2001.github.io/cv/)
+ - Static page (Utilizing only HTML and CSS) to show my cv in a fun way! <br>
  
